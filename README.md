@@ -8,6 +8,88 @@ Sure! Here's a list of the 48 Laws of Power, along with a brief description and 
 
 List each of the laws of power, provide a small, short description of that law of power, and use emojis so that it's very easily readable. Provide the output as a marked-down outline with multiple nested levels.  List each of the laws of success, provide a small, short description of that law of success, and use emojis that it's very easily readable. Provide the output as a marked-down outline with multiple nested levels. Sure! Here are the laws of success with short descriptions and emojis for easy readability.  For the two lists create an intersection list that shows the features and relationships between these laws as language.  Show a heatmap of the dimensions which are determined by NLTK to create a score for the top ten "connecting" high information words or concepts that relate success and power.
 
+# Mixture of Experts Analysis (MoE):
+
+MoE is eight task dimensions which are tied to reward and reget scores which allow us to focus tasks on high fidelity signals in data and respond to the following MoE system role types:
+
+
+
+# Results as Code:
+
+# Laws of Power
+- Never Outshine the Master 🌟
+- Always Say Less Than Necessary 🤐
+- Keep Your Friends Close, but Your Enemies Closer 👥🔍
+- Conceal Your Intentions 🙅‍♂️💭
+- Crush Your Enemy Totally 💥👊
+- Use Absence to Increase Respect and Honor 🚶‍♂️👀
+- Get Others to Do the Work for You 👥💪
+- Think as You Like, but Behave Like Others 🤔👥
+- Play to People's Fantasies 🌟🧚‍♀️
+- Avoid Stepping on the Toes of Those Above You 🚶‍♂️👞
+
+# Laws of Success
+- Set Clear Goals and Visualize Them 🎯🖼️
+- Take Action and Persevere 💪🚀
+- Continuously Learn and Adapt 📚🔄
+- Build Strong Relationships and Networks 👥🤝
+- Embrace Failure and Learn from It ❌📖
+- Take Ownership of Your Actions and Results 🙋‍♂️📊
+- Stay Focused and Prioritize 🎯🔝
+- Maintain a Positive Attitude and Mindset 😄🌈
+- Practice Discipline and Consistency 📆🔁
+- Celebrate Milestones and Reward Yourself 🎉🏆
+
+## Intersection List
+- Laws of Power:
+  - Never Outshine the Master
+  - Always Say Less Than Necessary
+  - Keep Your Friends Close, but Your Enemies Closer
+  - Conceal Your Intentions
+  - Crush Your Enemy Totally
+  - Use Absence to Increase Respect and Honor
+  - Get Others to Do the Work for You
+  - Think as You Like, but Behave Like Others
+  - Play to People's Fantasies
+  - Avoid Stepping on the Toes of Those Above You
+
+- Laws of Success:
+  - Set Clear Goals and Visualize Them
+  - Take Action and Persevere
+  - Continuously Learn and Adapt
+  - Build Strong Relationships and Networks
+  - Embrace Failure and Learn from It
+  - Take Ownership of Your Actions and Results
+  - Stay Focused and Prioritize
+  - Maintain a Positive Attitude and Mindset
+  - Practice Discipline and Consistency
+  - Celebrate Milestones and Reward Yourself
+
+## Heatmap of Dimensions
+- Success:
+  - Goals
+  - Action
+  - Learning
+  - Relationships
+  - Failure
+  - Ownership
+  - Focus
+  - Attitude
+  - Discipline
+  - Milestones
+
+- Power:
+  - Master
+  - Necessary
+  - Enemies
+  - Intentions
+  - Enemy
+  - Absence
+  - Work
+  - Behave
+  - Fantasies
+  - Above
+
 # Most Favorable Results:
 
 Here are the laws of power with short descriptions and emojis for easy readability:
